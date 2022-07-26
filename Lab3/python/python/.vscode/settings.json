@@ -1,0 +1,6 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "python.condaPath": "/opt/anaconda3/bin/conda",
+    "terminal.integrated.cwd": "/Users/enmwmak/Documents/Doc/Teaching/EIE4105/Lab/Programs/lab3/python/mnist",
+    "python.defaultInterpreterPath": "/opt/anaconda3/envs/py39/bin/python3"
+}
