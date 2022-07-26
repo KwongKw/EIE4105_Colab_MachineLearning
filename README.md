@@ -1,5 +1,6 @@
 # EIE4105_Colab_MachineLearning
 Algorithms for digits, face and image recognition using google colab
+(Details in Lab guide and report)
 
 ## Written Digits Recognition [Lab1-2]
 ![image](https://user-images.githubusercontent.com/56528924/181034563-f80dab66-ccbc-4e18-bbd7-0305ccf93097.png)
